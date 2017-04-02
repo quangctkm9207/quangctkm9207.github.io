@@ -1,0 +1,28 @@
+
+# Setup
+title:            QUANG NGUYEN
+tagline:          'Mobile Craftsman'
+description:      > # this means to ignore newlines until "baseurl:"
+  A Software Craftsman
+url:             https://quangctkm9207.github.io/
+baseurl:          /
+
+gems:            [jekyll-paginate]
+paginate:        5
+# paginate_path:   "page:num"
+
+# Custom vars
+version:          2.1.0
+
+# Social links
+facebook:         https://facebook.com/quangctkm9207
+github:           https://github.com/quangctkm9207
+linkedin:         https://www.linkedin.com/in/quangctkm9207
+medium:           https://medium.com/@quangctkm9207
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
