@@ -1,4 +1,4 @@
 This repository hosts my personal website
 ---
 
-This is powered by [Jekyll](http://jekyllrb.com/) and [Hyde them](https://github.com/poole/hyde).
+This is powered by [Jekyll](http://jekyllrb.com/) and [Hyde theme](https://github.com/poole/hyde).
