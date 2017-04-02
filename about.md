@@ -15,7 +15,7 @@ Currently, I spend most of my time with my Kindle and its world.
 
 As a software enthusiast, especially mobile development, I sit in front of computer screen and work on some awesome projects or exploring internet world.  
 
-On several social network channel, you might see me contributing on an open source project on [Github](https://github.com/quangctkm9207), posting an article on [Medim](https://medium.com/@quangctkm9207),or solving some funny problems on [Hackerrank](https://www.hackerrank.com/quangctkm9207). Besides, if you are my Facebook friends, you maybe find my comments on what you share or post there.  
+On several social network channel, you might see me contributing on an open source project on [Github](https://github.com/quangctkm9207), posting an article on [Medium](https://medium.com/@quangctkm9207),or solving some funny problems on [Hackerrank](https://www.hackerrank.com/quangctkm9207). Besides, if you are my Facebook friends, you maybe find my comments on what you share or post there.  
 
 ## Working style
-I am in love with building mobile applications and seriously care about development and design. 
+I am in love with building mobile applications and seriously care about development and design.
