@@ -21,7 +21,7 @@ linkedin:         https://www.linkedin.com/in/quangctkm9207
 medium:           https://medium.com/@quangctkm9207
 
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks

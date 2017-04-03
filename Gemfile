@@ -25,6 +25,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Additional gems for hype theme
 gem 'jekyll-paginate', '~> 1.1'
-gem 'redcarpet', '~> 3.4'
+gem 'kramdown', '~> 1.13', '>= 1.13.2'
 gem 'pygments.rb', '~> 1.1', '>= 1.1.1'
 gem 'pretty', '~> 0.3.2'
