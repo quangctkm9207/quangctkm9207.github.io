@@ -10,6 +10,7 @@ title: Projects
 ### Subiz
 ### Emotiv Insight
 ### Emotiv TestBench
+### QQChef
 ### AromaDriver
 ### AromaClock
 ### AromaMessage
