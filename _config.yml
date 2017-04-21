@@ -22,7 +22,7 @@ medium:           https://medium.com/@quangctkm9207
 
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
