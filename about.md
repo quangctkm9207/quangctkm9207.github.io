@@ -5,18 +5,17 @@ title: About
 # About
 My name is Nguyen Van Quang who was born in a small peaceful village in Vietnam. Currently, I am working and living in Kyoto, Japan.  
 
-I have tried and explored various things from being a student up to now to find out what I truly love.  After awhile, I saw that all of my interests are connected in somehow. However, what I am passionate the most are software development, design, and entrepreneur.  
-
-## Offline life
-
-After working time, you might see me at a coffee shop every weekend. Sometimes, you might find me walking around my place. One of my most memorial experience which changed my thinking a lot is the time I had traveled across my country for 2 months after graduating. I spent two valuable months to explore wonderful places and especially to learn about different people in each province.  
-Currently, I spend most of my time with my Kindle and its world.
+What I am passionate the most are software development, design, and entrepreneur. Mobile development, however, is taken as my main focus.
 
 ## Online life
+As a software enthusiast, especially mobile developer, I sit in front of computer screen and work on some awesome projects or exploring internet world for many hours every day. Coding, blogging and exploring new things are really exciting things to me.  
 
-As a software enthusiast, especially mobile development, I sit in front of computer screen and work on some awesome projects or exploring internet world.  
+Via several social network channel, you might see me contributing to open source projects on [Github](https://github.com/quangctkm9207), posting articles on [Medium](https://medium.com/@quangctkm9207),or solving some funny problems on [Hackerrank](https://www.hackerrank.com/quangctkm9207). Besides, if you are my Facebook friend, you maybe find my comments on what you share or post there.  
 
-On several social network channel, you might see me contributing on an open source project on [Github](https://github.com/quangctkm9207), posting an article on [Medium](https://medium.com/@quangctkm9207),or solving some funny problems on [Hackerrank](https://www.hackerrank.com/quangctkm9207). Besides, if you are my Facebook friends, you maybe find my comments on what you share or post there.  
+## Offline life
+After working time, you might see me at a coffee shop every weekend. Sometimes, you spend time walking around my place.
+Besides, I spend most of my time with my Kindle and its world.  
 
-## Working style
-I am in love with building mobile applications and seriously care about development and design.
+In 2015, I spent two valuable months to travel across my country after graduating. I explored wonderful places and especially to learn about different people in each province. It is one of my most memorial experience which has changed my thinking a lot.
+
+After that, I came to work in Japan and had really a good chance to learn and experience Japanese culture, and especially people.  
