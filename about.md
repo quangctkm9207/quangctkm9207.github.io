@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 # About
-My name is Nguyen Van Quang who was born in a small peaceful village in Vietnam. Currently, I am working and living in Kyoto, Japan.  
+My name is Nguyen Van Quang and I was born in a peaceful village in Vietnam. Currently, I am working and living in Kyoto, Japan.  
 
-What I am passionate the most are software development, design, and entrepreneur. Mobile development, however, is taken as my main focus.
+What I am passionate are software development, design, and entrepreneur. Mobile development, however, is taken as my main focus.
 
 ## Online life
 As a software enthusiast, especially mobile developer, I sit in front of computer screen and work on some awesome projects or exploring internet world for many hours every day. Coding, blogging and exploring new things are really exciting things to me.  

@@ -7,7 +7,7 @@ title: Projects
 ### Daily Diary
 *Android, UI/UX Design, Marketing*  
 
-This is a mobile-version diary in which users can add emoticons, drawings, audio, and pictures. Besides, user’s data is stored locally in SQLite database and synchronized to Dropbox. Besides, Dialy Diary won an award from Vietnamese Creativity-Encouraging contest 2013 and got more than 300,000 download from Google Play.
+It is a journal-writing app in which users can add emoticons, drawings, audio, and pictures. Besides, user’s data is stored locally in SQLite database and synchronized to Dropbox. Besides, Daily Diary won an award from Vietnamese Creativity-Encouraging contest 2013 and got more than 300,000 downloads on Google Play.  
 [Google Play](https://play.google.com/store/apps/details?id=ss.passion.personaldiary)
 
 ---  
@@ -56,6 +56,7 @@ It is a Running Tracker app which uses Location services and Google Map to recor
 ---  
 ### QQChef
 *Android*  
+
 QQChef is a mobile client app of a social network in F&B. I was in charge of developing Android version while other members built server-side and iOS version.  
 
 ---  
@@ -70,40 +71,44 @@ It is a Android battery manager app which can show battery-related information, 
 ## <center> Company Projects <center>
 
 
-### Emotiv Insight®
+### Emotiv Insight
 *Android*  
 
 It is a companion app to Emotiv Insight Brainwear helps improve brain fitness and promotes life-long brain health.  
 [Google Play](https://play.google.com/store/apps/details?id=com.emotiv.insightapp)
 
 ---  
-### Emotiv TestBench®
+### Emotiv TestBench
 *Android*  
 It is another companion app to Emotiv Brainwear devices which monitors, calculates and displays statistics of ECG signal.  
 
 ---  
-### AromaClock®
+### AromaClock
 *iOS, Android, UI/UX Design*  
+
 AromaClock is a clock application powered with scents by using Aroma Shooter. For example, you will be woken up in the morning by sound, vibration, and SCENT.  
 [Website](https://aromajoin.com/en/software/apps/aroma-clock)
 
 ---  
-### AromaMessage®
+### AromaMessage
 *Android, UI/UX Design*  
+
 AromaMessage is the first real-time messaging application which allows users to send fragrances. It works with Aroma Shooter devices. It companied with Aroma Shooter Mini device to win Innovation Award in CEATEC Japan 2016.  
 [Website](https://aromajoin.com/en/software/apps/aroma-messages)
 
 ---  
-### AromaPlayer®
+### AromaPlayer
 *Project Manager, Android, iOS, UI/UX Design*  
+
 AromaPlayer is the biggest project for me until now. I was responsible to lead a team of 5 members. Besides, I was responsible to design UI/UX, develop iOS version(100%), develop Android version(40%), and manage project.  
 [App Store](https://itunes.apple.com/app/aromaplayer/id1189050837)|
 [Google Play](https://play.google.com/store/apps/details?id=com.aromajoin.aromaplayeronline)|
 [Website](https://aromajoin.com/en/software/apps/aroma-player)  
 
 ---  
-### ControllerSDK®
+### ControllerSDK
 *Project Manager, Android, iOS, Windows*  
+
 ControllerSDK is a set of libraries which allows third-party applications to work with AromaShooter devices. My task was to develop and distribute its iOS, Android and Windows version.  
 [Website](https://aromajoin.com/software/sdks)|
 [Android](https://github.com/aromajoin/controller-sdk-android)|
@@ -113,6 +118,7 @@ ControllerSDK is a set of libraries which allows third-party applications to wor
 ---  
 ### ActionSheet for Android
 *Android*  
+
 A small library which creates iPad-style ActionSheet for Android apps.  
 [Github](https://github.com/aromajoin/actionsheet-android)
 
