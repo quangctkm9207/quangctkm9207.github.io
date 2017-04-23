@@ -13,19 +13,15 @@ It is a journal-writing app in which users can add emoticons, drawings, audio, a
 ---  
 ### Screen Corner
 *Android, UI/UX Design, Marketing*  
+![BatterySave]({{ site.baseurl }}assets/screenshots/screen_corner.png)  
 
 Screen Corner allows users to customize mobile screen corner by various styles.  
 [Github](https://github.com/quangctkm9207/screen-corner)
 
 ---  
-### Smart Gesture
-*Android, UI/UX Design*  
-
-Smart Gesture is a utility application in which users can perform daily tasks such as making a phone call, starting application, changing settings, etc by only one gesture. I developed it as a freelance project.  
-
----  
 ### Better Note
 *Android, UI/UX Design, Marketing*  
+![BatterySave]({{ site.baseurl }}assets/screenshots/better_note.png)  
 
 It is an elegant note app which brings you beautiful fonts and colors.
 It has been downloaded over 100,000 times with rating of 4.3/5.0 star on Google Play.  
@@ -34,11 +30,27 @@ It has been downloaded over 100,000 times with rating of 4.3/5.0 star on Google 
 ---  
 ### Like Dad or Mom  
 *Android, UI/UX Design, Marketing*  
+![BatterySave]({{ site.baseurl }}assets/screenshots/like_dad_or_mom.png)  
 
 This app is a simple app for entertainment purpose only. You start using it by putting photos of your
 father, your mother and yourself and it will tell you how much you look like your parent.
 It took me a few hours to build it but it has got more than 200,000 downloads on Google Play.  
 [Google Play](https://play.google.com/store/apps/details?id=funapp.photoapp.likeparent)
+
+---  
+### Water Race
+*Android, UI/UX Design*  
+![BatterySave]({{ site.baseurl }}assets/screenshots/water_race.png)  
+
+It is a Running Tracker app which uses Location services and Google Map to record statistics and routines, SQLite and web service to save data, gamification to motivate users. Besides, this app was ranked 8th among 26 products in Hackathon Vietnam 2014. My team had 4 members and I worked as a main android developer.  
+
+---  
+### Battery Saver
+*Android, UI/UX Design, Marketing*  
+![BatterySave]({{ site.baseurl }}assets/screenshots/battery_saver.png)  
+
+It is a Android battery manager app which can show battery-related information, manage running tasks and setup battery usage mode to optimize and extend battery life.  
+[Google Play](https://play.google.com/store/apps/details?id=com.emopass.powermanager)
 
 ---  
 ### Subiz
@@ -48,25 +60,20 @@ I built this app for Subiz Live Chat company as a freelance project. It is a mob
 [Google Play](https://play.google.com/store/apps/details?id=com.subiz.androidapp)
 
 ---  
-### Water Race
-*Android, UI/UX Design*  
-
-It is a Running Tracker app which uses Location services and Google Map to record statistics and routines, SQLite and web service to save data, gamification to motivate users. Besides, this app was ranked 8th among 26 products in Hackathon Vietnam 2014. My team had 4 members and I worked as a main android developer.  
-
----  
 ### QQChef
 *Android*  
 
 QQChef is a mobile client app of a social network in F&B. I was in charge of developing Android version while other members built server-side and iOS version.  
 
 ---  
-### Battery Saver
-*Android, UI/UX Design, Marketing*  
+### Smart Gesture
+*Android, UI/UX Design*  
 
-It is a Android battery manager app which can show battery-related information, manage running tasks and setup battery usage mode to optimize and extend battery life.  
-[Google Play](https://play.google.com/store/apps/details?id=com.emopass.powermanager)
+Smart Gesture is a utility application in which users can perform daily tasks such as making a phone call, starting application, changing settings, etc by only one gesture. I developed it as a freelance project.  
 
----
+---  
+
+
 
 ## <center> Company Projects <center>
 
