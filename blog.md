@@ -8,3 +8,4 @@ title: Blog
 ### [If I have one month to learn iOS, how would I spend it? ](https://android.jlelse.eu/if-i-have-one-month-to-learn-ios-how-would-i-spend-it-a5b2aba87cc2)
 ### [Architecture patterns in Android](https://android.jlelse.eu/architecture-patterns-in-android-abf99f2b6f70)
 ### [Android MVP architecture with Dependency Injection](https://android.jlelse.eu/android-mvp-architecture-with-dependency-injection-dee43fe47af0)
+### [Standardize Git branching in mobile development](https://android.jlelse.eu/standardize-git-branching-in-mobile-development-7045423330db)
