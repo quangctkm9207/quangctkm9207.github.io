@@ -10,3 +10,4 @@ title: Blog
 ### [Android MVP architecture with Dependency Injection](https://android.jlelse.eu/android-mvp-architecture-with-dependency-injection-dee43fe47af0)
 ### [Standardize Git branching in mobile development](https://android.jlelse.eu/standardize-git-branching-in-mobile-development-7045423330db)
 ### [Falling in love with Android Testing](https://blog.mindorks.com/falling-in-love-with-android-testing-dd11ffa6ac3e)
+### [MVP with new Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491)
