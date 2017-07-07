@@ -2,21 +2,19 @@
 layout: page
 title: Projects
 ---
-## <center> Personal Projects <center>
+
+* [Personal](#personal-projects)
+* [Company](#company-products)
+* [Open-source](#open-source-advocacy)  
+
+---
+## Personal
 
 ### Daily Diary
 *Android, UI/UX Design, Marketing*  
 
 It is a journal-writing app in which users can add emoticons, drawings, audio, and pictures. Besides, user’s data is stored locally in SQLite database and synchronized to Dropbox. Besides, Daily Diary won an award from Vietnamese Creativity-Encouraging contest 2013 and got more than 300,000 downloads on Google Play.  
 [Google Play](https://play.google.com/store/apps/details?id=ss.passion.personaldiary)
-
----  
-### Screen Corner
-*Android, UI/UX Design, Marketing*  
-![BatterySave]({{ site.baseurl }}assets/screenshots/screen_corner.png)  
-
-Screen Corner allows users to customize mobile screen corner by various styles.  
-[Github](https://github.com/quangctkm9207/screen-corner)
 
 ---  
 ### Better Note
@@ -43,6 +41,7 @@ It took me a few hours to build it but it has got more than 200,000 downloads on
 ![BatterySave]({{ site.baseurl }}assets/screenshots/water_race.png)  
 
 It is a Running Tracker app which uses Location services and Google Map to record statistics and routines, SQLite and web service to save data, gamification to motivate users. Besides, this app was ranked 8th among 26 products in Hackathon Vietnam 2014. My team had 4 members and I worked as a main android developer.  
+[Hackathon](https://devpost.com/software/water-race)  
 
 ---  
 ### Battery Saver
@@ -71,12 +70,9 @@ QQChef is a mobile client app of a social network in F&B. I was in charge of dev
 
 Smart Gesture is a utility application in which users can perform daily tasks such as making a phone call, starting application, changing settings, etc by only one gesture. I developed it as a freelance project.  
 
----  
+---
 
-
-
-## <center> Company Projects <center>
-
+## Company
 
 ### Emotiv Insight
 *Android*  
@@ -122,12 +118,50 @@ ControllerSDK is a set of libraries which allows third-party applications to wor
 [iOS](https://github.com/aromajoin/controller-sdk-ios)|
 [Windows](https://github.com/aromajoin/controller-sdk-windows)
 
+---
+
+## Open-Source
+
+### Hello-MVP
+*Android, Architect*
+
+A small Android sample demonstrates MVP (Model-View-Presenter) pattern along with my articles.  
+[Github](https://github.com/quangctkm9207/hello-mvp)  
+
+---
+### MVP-Android-Architecture-Component
+
+Android MVP sample adapts with new Android architecture components (Lifecycle, Room).  
+[GitHub](https://github.com/quangctkm9207/mvp-android-arch-component)  
+
 ---  
-### ActionSheet for Android
+### Screen Corner
+*Android, UI/UX Design, Marketing*  
+![BatterySave]({{ site.baseurl }}assets/screenshots/screen_corner.png)  
+
+Screen Corner allows users to customize mobile screen corner by various styles.  
+[Github](https://github.com/quangctkm9207/screen-corner)
+
+---
+### Android Best Practices
+*Android*  
+
+Do's and Don'ts for Android development.  
+[Github](https://github.com/futurice/android-best-practices)  
+
+---  
+### ActionSheet
 *Android*  
 
 A small library which creates iPad-style ActionSheet for Android apps.  
 [Github](https://github.com/aromajoin/actionsheet-android)
+
+---
+### MaterialShowcase
+*iOS*  
+
+An elegant and beautiful tap showcase view for iOS apps based on Material Design Guidelines.  
+[Github](https://github.com/aromajoin/material-showcase-ios)
 
 ---  
 There are various applications which have been unpublished from Google Play because I do not have time to maintain them.  
