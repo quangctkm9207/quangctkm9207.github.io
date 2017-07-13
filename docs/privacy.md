@@ -1,7 +1,6 @@
-
 ---
 layout: default
-title: "App Privacy"
+title: App Privacy
 ---
 
 ## Privacy Policy  
