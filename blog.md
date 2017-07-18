@@ -11,3 +11,4 @@ title: Blog
 ### [Standardize Git branching in mobile development](https://android.jlelse.eu/standardize-git-branching-in-mobile-development-7045423330db)
 ### [Falling in love with Android Testing](https://blog.mindorks.com/falling-in-love-with-android-testing-dd11ffa6ac3e)
 ### [MVP with new Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491)
+### [Small things when unit testing RxJava in Android](https://blog.mindorks.com/small-things-when-unit-testing-rxjava-in-android-7f7c336ccabd)
