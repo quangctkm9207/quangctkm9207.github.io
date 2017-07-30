@@ -4,14 +4,14 @@ title:            QUANG NGUYEN
 tagline:          'Mobile Craftsman'
 description:      'A Software Craftsman'
 url:              http://emo-pass.com
-baseurl:          /
+baseurl:          "/"
 
 # gems:            [jekyll-paginate]
 # paginate:        5
 # paginate_path:   "page:num"
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
 # Dependencies
 markdown:         kramdown
