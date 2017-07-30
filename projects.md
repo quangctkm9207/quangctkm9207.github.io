@@ -3,9 +3,9 @@ layout: page
 title: Projects
 ---
 
-* [Personal](#personal-projects)
-* [Company](#company-products)
-* [Open-source](#open-source-advocacy)  
+* [Personal](#personal)
+* [Company](#company)
+* [Open-source](#open-source)  
 
 ---
 ## Personal
