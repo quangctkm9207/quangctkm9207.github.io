@@ -2,9 +2,8 @@
 # Setup
 title:            QUANG NGUYEN
 tagline:          'Mobile Craftsman'
-description:      > # this means to ignore newlines until "baseurl:"
-  A Software Craftsman
-url:             https://quangctkm9207.github.io/
+description:      'A Software Craftsman'
+url:              http://emo-pass.com
 baseurl:          /
 
 # gems:            [jekyll-paginate]

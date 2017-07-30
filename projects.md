@@ -5,7 +5,7 @@ title: Projects
 
 * [Personal](#personal)
 * [Company](#company)
-* [Open-source](#open-source)  
+* [Open-source](#open-source)
 
 ---
 ## Personal

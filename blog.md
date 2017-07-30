@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 ---
+
 > Writing down to keep knowledge well organized in our brain. Sharing to get knowledge verified by others and build a better community.
 
 ---
