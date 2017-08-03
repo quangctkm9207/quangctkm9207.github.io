@@ -4,7 +4,7 @@ title:            QUANG NGUYEN
 tagline:          'Mobile Craftsman'
 description:      'A Software Craftsman'
 url:              http://emo-pass.com
-baseurl:          "/"
+baseurl:          /
 
 # gems:            [jekyll-paginate]
 # paginate:        5
