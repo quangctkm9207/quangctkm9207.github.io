@@ -19,7 +19,7 @@ It is a journal-writing app in which users can add emoticons, drawings, audio, a
 ---  
 ### Better Note
 *Android, UI/UX Design, Marketing*  
-![BatterySave]({{ site.baseurl }}assets/screenshots/better_note.png)  
+![BatterySave]({{ site.newbaseurl }}assets/screenshots/better_note.png)  
 
 It is an elegant note app which brings you beautiful fonts and colors.
 It has been downloaded over 100,000 times with rating of 4.3/5.0 star on Google Play.  
@@ -28,7 +28,7 @@ It has been downloaded over 100,000 times with rating of 4.3/5.0 star on Google 
 ---  
 ### Like Dad or Mom  
 *Android, UI/UX Design, Marketing*  
-![BatterySave]({{ site.baseurl }}assets/screenshots/like_dad_or_mom.png)  
+![BatterySave]({{ site.newbaseurl }}assets/screenshots/like_dad_or_mom.png)  
 
 This app is a simple app for entertainment purpose only. You start using it by putting photos of your
 father, your mother and yourself and it will tell you how much you look like your parent.
@@ -38,7 +38,7 @@ It took me a few hours to build it but it has got more than 200,000 downloads on
 ---  
 ### Water Race
 *Android, UI/UX Design*  
-![BatterySave]({{ site.baseurl }}assets/screenshots/water_race.png)  
+![BatterySave]({{ site.newbaseurl }}assets/screenshots/water_race.png)  
 
 It is a Running Tracker app which uses Location services and Google Map to record statistics and routines, SQLite and web service to save data, gamification to motivate users. Besides, this app was ranked 8th among 26 products in Hackathon Vietnam 2014. My team had 4 members and I worked as a main android developer.  
 [Hackathon](https://devpost.com/software/water-race)  
@@ -46,7 +46,7 @@ It is a Running Tracker app which uses Location services and Google Map to recor
 ---  
 ### Battery Saver
 *Android, UI/UX Design, Marketing*  
-![BatterySave]({{ site.baseurl }}assets/screenshots/battery_saver.png)  
+![BatterySave]({{ site.newbaseurl }}assets/screenshots/battery_saver.png)  
 
 It is a Android battery manager app which can show battery-related information, manage running tasks and setup battery usage mode to optimize and extend battery life.  
 [Google Play](https://play.google.com/store/apps/details?id=com.emopass.powermanager)
@@ -137,7 +137,7 @@ Android MVP sample adapts with new Android architecture components (Lifecycle, R
 ---  
 ### Screen Corner
 *Android, UI/UX Design, Marketing*  
-![BatterySave]({{ site.baseurl }}assets/screenshots/screen_corner.png)  
+![BatterySave]({{ site.newbaseurl }}assets/screenshots/screen_corner.png)  
 
 Screen Corner allows users to customize mobile screen corner by various styles.  
 [Github](https://github.com/quangctkm9207/screen-corner)
