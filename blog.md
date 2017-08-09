@@ -6,7 +6,11 @@ title: Blog
 > Writing down to keep knowledge well organized in our brain. Sharing to get knowledge verified by others and build a better community.
 
 ---
-#### *July 17, 2017* [Small things when unit testing RxJava in Android](https://blog.mindorks.com/small-things-when-unit-testing-rxjava-in-android-7f7c336ccabd)
+#### *Jul 17, 2017* [Small things when unit testing RxJava in Android](https://blog.mindorks.com/small-things-when-unit-testing-rxjava-in-android-7f7c336ccabd)
+
+#### *Jul 14, 2017* [Database transactions]({{ site.newbaseurl }}2017/07/14/database-transactions/)
+
+#### *Jul 14, 2017* [Garbage collection]({{ site.newbaseurl }}2017/07/14/garbage-Collection/)
 
 #### *Jun 14, 2017* [MVP with new Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491)
 
