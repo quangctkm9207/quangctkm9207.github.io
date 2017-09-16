@@ -1,19 +1,17 @@
 ---
 layout: page
-title: Blog
+title: Articles
 ---
 
-> Writing down to keep knowledge well organized in our brain. Sharing to get knowledge verified by others and build a better community.
+> Writing down to keep knowledge well organized in our brain. Sharing to get knowledge verified by others and build a better community.  
+
+Below are all posts which I have published on [Medium](https://medium.com/@quangctkm9207). My other notes can be found at [my own hosted blog]({{ site.newbaseurl }}blog/).
 
 ---
 #### *Sep 03, 2017* [Material Showcase for iOS](https://blog.mindorks.com/material-showcase-for-ios-f077ba950b03)
 #### *Aug 27, 2017* [Distribute multiple-module library on Bintray](https://blog.mindorks.com/distribute-multiple-module-library-on-bintray-for-java-and-android-developers-212216bc1aa7)
 
 #### *Jul 17, 2017* [Small things when unit testing RxJava in Android](https://blog.mindorks.com/small-things-when-unit-testing-rxjava-in-android-7f7c336ccabd)
-
-#### *Jul 14, 2017* [Database transactions]({{ site.newbaseurl }}2017/07/14/database-transactions/)
-
-#### *Jul 14, 2017* [Garbage collection]({{ site.newbaseurl }}2017/07/14/garbage-Collection/)
 
 #### *Jun 14, 2017* [MVP with new Architecture Components](https://blog.mindorks.com/android-mvp-with-new-architecture-components-7627b7cb8491)
 
