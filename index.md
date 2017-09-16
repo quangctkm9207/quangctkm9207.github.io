@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 <p align="center">
-  <img src="{{ site.newbaseurl }}assets/icon_144.png">
   <b>Hello, I am Quang.</b><br>
   <b>Welcome to my website.</b><br>
   Do you want to know <a href="{{ site.newbaseurl }}about/">AboutMe</a> |
