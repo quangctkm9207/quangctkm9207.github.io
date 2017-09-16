@@ -11,9 +11,13 @@
       {{ content }}
     </div>
 
+    <!-- Anylytics -->
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
+
+    <!-- Disqus count -->
+    <script id="dsq-count-scr" src="//emopass.disqus.com/count.js" async></script>
 
   </body>
 </html>

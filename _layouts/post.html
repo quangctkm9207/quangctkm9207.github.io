@@ -23,3 +23,7 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<!-- Disqus setting -->
+{% include disqus.html %}
+{% if page.comments %} • <a href="https://sgeos.github.io{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
