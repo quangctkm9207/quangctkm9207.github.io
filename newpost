@@ -1,0 +1,10 @@
+#!/bin/bash
+# Short script to create new post file quickly.
+# Quite lazy to write a long post's file name (yyyy-mm-dd-blog-post-name.md)
+
+# ./newpost file-name
+
+now="$(date +'%Y-%m-%d')"
+fileName="$now-$1.md"
+touch ./_posts/$fileName
+cat post-template.md > ./_posts/$fileName
