@@ -5,6 +5,12 @@
 # ./newpost file-name
 
 now="$(date +'%Y-%m-%d')"
-fileName="$now-$1.md"
-touch ./_posts/$fileName
-cat post-template.md > ./_posts/$fileName
+file="./_posts/$now-$1.md"
+touch $file
+/bin/cat <<EOM >$file
+---
+layout: post
+title: Post Title
+comments: true
+---
+EOM
