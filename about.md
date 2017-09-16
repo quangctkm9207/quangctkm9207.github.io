@@ -3,19 +3,22 @@ layout: page
 title: About
 ---
 # About
-I am Quang, a young and professional developer, who was born in a Vietnamese peaceful village but currently working in Kyoto, Japan.  
+My full name is Nguyen Van Quang. Currently, I am a software developer who is always on the way to refactor his products and himself.
 
-What I am passionate are software development, design, and entrepreneur. Mobile development, however, is taken as my main focus.
+## Building stuffs
+When I was in university, I enjoyed building Android apps which got more than a million of downloads totally, the most successful one has been downloaded more than 300,000 times.
+Some of these apps still can be found on [Google Play](https://play.google.com/store/apps/developer?id=EmoPass+Studio).  
+Being a solo man was really fun at that time. In my own studio, I went through all stages of a development process which includes sketching idea, planning, designing, coding, releasing and promoting.  
 
-## Online life
-As a software enthusiast, especially mobile developer, I sit in front of computer screen and work on some awesome projects or exploring internet world for many hours every day. Coding, blogging and exploring new things are really exciting things to me.  
+At that time, **design, software, and entrepreneur** took my time and passion equally.
 
-Via several social network channel, you might see me contributing to open source projects on [Github](https://github.com/quangctkm9207), posting articles on [Medium](https://medium.com/@quangctkm9207),or solving some funny problems on [Hackerrank](https://www.hackerrank.com/quangctkm9207). Besides, if you are my Facebook friend, you maybe find my comments on what you share or post there.  
+## Software development
+After graduating, software development was planned to be the main focus in my career path. Especially, I continued to put my efforts on mobile development in which I expanded my skills to work with both iOS and Android. In addition to **clean codes**, I evaluated **effective development process**.  
 
-## Offline life
-After working time, you might see me at a coffee shop every weekend. Sometimes, I spend time walking around my apartment.
-Besides, I spend most of my leisure time with my Kindle and its world.  
+## Beauty in technical things
+The more time I spend on software, the more I see its beauty, especially in purely abstract layers (which are independent to libraries, frameworks, programming languages, and even time). After exploring various things beyond mobile world, the followings are what I care the most to build and deliver high-quality software products.
+* Robust architecture and design.
+* Clean, extendable, and maintainable codes.
+* Agile, effective development stack.  
 
-In 2015, I spent two valuable months to travel across my country after graduating. I explored wonderful places and especially to learn about different people in each province. It is one of my most memorial experience which has changed my thinking a lot.
-
-After that, I came to work in Japan and had really a good chance to learn and experience Japanese culture, and especially people.  
+If you want to get in touch, please find me via [Twitter](https://twitter.com/quangctkm9207),  [Github](https://github.com/quangctkm9207), or drop me a message via [email](mailto:quangctkm9207@gmail.com).
