@@ -1,11 +1,31 @@
+/* Custom theme */
+.theme-base-0g .sidebar {
+  background-color: #546E7A;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #1E88E5;
+}
+
 .center-image
 {
     margin: 0 auto;
     display: block;
 }
+
 img.emoji {
     display: inline;
     height: 1em;
     width: 1em;
     margin-bottom: 0.25em;
+}
+
+h1, h2, h3 {
+    font-family: Lato, sans-serif;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px
+    -webkit-font-smoothing: antialiased;
 }
