@@ -40,3 +40,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+# Keep all draft posts in local machine only
+_drafts
