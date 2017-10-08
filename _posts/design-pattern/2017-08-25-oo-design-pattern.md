@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Design Patterns
+title: OO Design Patterns
 comments: true
 ---
+> Design patterns in OOP(Object Oriented Programming) world.
 
 ### What is a design pattern?
 
@@ -28,10 +29,8 @@ to compose interfaces. Meanwhile, structural object-patterns define ways to comp
 These design patterns are all about **objects communication**.They identify common communication patterns between objects and realize these patterns.
 By doing so, these patterns increase flexibility in carrying out this communication.  
 
-
 ### What should we care when applying a design pattern?
 
 * As other things in OO designs, there are always trade-offs. There is no design pattern for all problems,
 even in some specific situations, just follow basic OO principles is better than apply a complex design pattern.  
-* They are guideline to problems, so they lay down as an abstract layer. We should not force to use them in specific ways.
-it should be flexible depends on specific situations.
+* They are guideline to problems, so they lay down as an abstract layer. We should not force to use them in specific ways. It should be flexible depends on specific situations.
