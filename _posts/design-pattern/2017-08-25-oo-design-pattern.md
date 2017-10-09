@@ -7,27 +7,52 @@ comments: true
 
 ### What is a design pattern?
 
-A design patterns is a repeatable solutions to a commonly occurring problem in software design.
-It servers as a guideline or template for how to solve a problem but not a finished design
+A design patterns is a repeatable solution to a commonly occurring problem in software design.
+It serves as a guideline or template for how to solve a problem but not a finished design
 that can be transformed directly into code.
 
-### What benefits does design patterns bring in software development?
+### What benefits does design patterns bring?
 
-* It helps to speed up the development process by providing tested, proven development paradigms.
-* Design patterns provide general solutions, documented in a format that doesn't require specifics ties to
+* Speed up the development process by providing tested, proven development paradigms.
+* Provide general solutions, documented in a format that doesn't require specifics ties to
 a particle problem.
-* It allows developers to communicate using well-known, well understood names for software interactions.
+* Allows developers to communicate using well-known, well understood names in software development.  
 
 ### What types of design patterns do we have?
 
 #### Creational design patterns
-These patterns are templates for how to **instantiate object**, and can be divided into class-creation patterns and object-creation patterns.  
+These patterns are templates for how to **instantiate object**, and can be divided into class-creation patterns and object-creation patterns.
+  * Abstract Factory
+  * Prototype
+  * Builder
+  * Factory Method
+  * Singleton  
+
 #### Structural design patterns
 Structural design patterns are focusing on **class and object composition**, or in other words, relationship between entities. Structural class-creation patterns use inheritance
-to compose interfaces. Meanwhile, structural object-patterns define ways to compose objects to obtain new functionality.  
+to compose interfaces. Meanwhile, structural object-patterns define ways to compose objects to obtain new functionality.
+  * Adapter
+  * Bridge
+  * Composite
+  * Decorator
+  * Facade
+  * Flyweight
+  * Proxy  
+
 #### Behavior design patterns
 These design patterns are all about **objects communication**.They identify common communication patterns between objects and realize these patterns.
-By doing so, these patterns increase flexibility in carrying out this communication.  
+By doing so, these patterns increase flexibility in carrying out this communication.
+  * Chain of Responsibility
+  * Command
+  * Interpreter
+  * Iterator
+  * Mediator
+  * Memento
+  * Observer
+  * State
+  * Strategy
+  * Template Method
+  * Visitor  
 
 ### What should we care when applying a design pattern?
 
