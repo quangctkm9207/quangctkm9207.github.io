@@ -122,13 +122,6 @@ ControllerSDK is a set of libraries which allows third-party applications to wor
 
 ## Open-Source
 
-### Hello-MVP
-*Android, Architect*
-
-A small Android sample demonstrates MVP (Model-View-Presenter) pattern along with my articles.  
-[Github](https://github.com/quangctkm9207/hello-mvp)  
-
----
 ### MVP-Android-Architecture-Component
 
 Android MVP sample adapts with new Android architecture components (Lifecycle, Room).  
@@ -162,6 +155,13 @@ A small library which creates iPad-style ActionSheet for Android apps.
 
 An elegant and beautiful tap showcase view for iOS apps based on Material Design Guidelines.  
 [Github](https://github.com/aromajoin/material-showcase-ios)
+
+---
+### PrefPin
+*Android*  
+
+A tiny pin to reduce boilerplate codes in PreferenceFragment by using field and method binding.  
+[Github](https://github.com/quangctkm9207/prefpin)
 
 ---  
 There are various applications which have been unpublished from Google Play because I do not have time to maintain them.  
