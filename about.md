@@ -3,12 +3,13 @@ layout: page
 title: About
 ---
 # About
-My full name is Nguyen Van Quang. Currently, I am a software developer who is always on the way to refactor his products and himself.
+Hi, my full name is Nguyen Van Quang. I am a software developer specializing in mobile development (native Android and iOS). I have built dozens of mobile apps from concept to delivery and maintenance stage. Besides, I am also an [open-source contributor](https://github.com/quangctkm9207) and [blogger](http://emo-pass.com/blog/).
 
 ## Building stuffs
-When I was in university, I enjoyed building Android apps which got more than a million of downloads totally, the most successful one has been downloaded more than 300,000 times.
-Some of these apps still can be found on [Google Play](https://play.google.com/store/apps/developer?id=EmoPass+Studio).  
-Being a solo man was really fun at that time. In my own studio, I went through all stages of a development process which includes sketching idea, planning, designing, coding, releasing and promoting.  
+Building crafts was what I enjoyed as a kid, some of them were really useful, and others just were silly funny things.  
+When I was in university, I was really interested in Android and learned to develop apps which got more than a million of downloads totally, the most successful one has been downloaded more than 300,000 times.
+Some of them still can be found on [Google Play](https://play.google.com/store/apps/developer?id=EmoPass+Studio).  
+At that time, I went through all stages of a development process which includes sketching idea, planning, designing, coding, releasing and marketing.  
 
 At that time, **design, software, and entrepreneur** took my time and passion equally.
 
