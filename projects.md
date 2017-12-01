@@ -3,11 +3,53 @@ layout: page
 title: Projects
 ---
 
-* [Personal](#personal)
 * [Company](#company)
+* [Personal](#personal)
 * [Open-source](#open-source)
 
 ---
+
+## Company
+
+### AromaClock
+*iOS, Android, UI/UX Design*  
+
+AromaClock is a clock application powered with scents by using Aroma Shooter. For example, you will be woken up in the morning by sound, vibration, and SCENT.  
+[Website](https://aromajoin.com/en/software/apps/aroma-clock)
+
+---  
+### AromaMessage
+*Android, UI/UX Design*  
+
+AromaMessage is the first real-time messaging application which allows users to send fragrances. It works with Aroma Shooter devices. It companied with Aroma Shooter Mini device to win Innovation Award in CEATEC Japan 2016.  
+[Website](https://aromajoin.com/en/software/apps/aroma-messages)
+
+---  
+### AromaPlayer
+*Project Manager, Android, iOS, UI/UX Design*  
+
+AromaPlayer is the biggest project for me until now. I was responsible to lead a team of 5 members. Besides, I was responsible to design UI/UX, develop iOS version(100%), develop Android version(40%), and manage project.  
+[App Store](https://itunes.apple.com/app/aromaplayer/id1189050837)|
+[Google Play](https://play.google.com/store/apps/details?id=com.aromajoin.aromaplayeronline)|
+[Website](https://aromajoin.com/en/software/apps/aroma-player)  
+
+---  
+### ControllerSDK
+*Project Manager, Android, iOS, Windows*  
+
+ControllerSDK is a set of libraries which allows third-party applications to work with AromaShooter devices. My task was to develop and distribute its iOS, Android and Windows version.  
+[Website](https://aromajoin.com/software/sdks)|
+[Android](https://github.com/aromajoin/controller-sdk-android)|
+[iOS](https://github.com/aromajoin/controller-sdk-ios)|
+[Windows](https://github.com/aromajoin/controller-sdk-windows)
+
+---  
+### Emotiv TestBench
+*Android*  
+It is another companion app to Emotiv Brainwear devices which monitors, calculates and displays statistics of ECG signal.  
+
+---  
+
 ## Personal
 
 ### Daily Diary
@@ -72,84 +114,8 @@ Smart Gesture is a utility application in which users can perform daily tasks su
 
 ---
 
-## Company
-
-### Emotiv Insight
-*Android*  
-
-It is a companion app to Emotiv Insight Brainwear helps improve brain fitness and promotes life-long brain health.  
-[Google Play](https://play.google.com/store/apps/details?id=com.emotiv.insightapp)
-
----  
-### Emotiv TestBench
-*Android*  
-It is another companion app to Emotiv Brainwear devices which monitors, calculates and displays statistics of ECG signal.  
-
----  
-### AromaClock
-*iOS, Android, UI/UX Design*  
-
-AromaClock is a clock application powered with scents by using Aroma Shooter. For example, you will be woken up in the morning by sound, vibration, and SCENT.  
-[Website](https://aromajoin.com/en/software/apps/aroma-clock)
-
----  
-### AromaMessage
-*Android, UI/UX Design*  
-
-AromaMessage is the first real-time messaging application which allows users to send fragrances. It works with Aroma Shooter devices. It companied with Aroma Shooter Mini device to win Innovation Award in CEATEC Japan 2016.  
-[Website](https://aromajoin.com/en/software/apps/aroma-messages)
-
----  
-### AromaPlayer
-*Project Manager, Android, iOS, UI/UX Design*  
-
-AromaPlayer is the biggest project for me until now. I was responsible to lead a team of 5 members. Besides, I was responsible to design UI/UX, develop iOS version(100%), develop Android version(40%), and manage project.  
-[App Store](https://itunes.apple.com/app/aromaplayer/id1189050837)|
-[Google Play](https://play.google.com/store/apps/details?id=com.aromajoin.aromaplayeronline)|
-[Website](https://aromajoin.com/en/software/apps/aroma-player)  
-
----  
-### ControllerSDK
-*Project Manager, Android, iOS, Windows*  
-
-ControllerSDK is a set of libraries which allows third-party applications to work with AromaShooter devices. My task was to develop and distribute its iOS, Android and Windows version.  
-[Website](https://aromajoin.com/software/sdks)|
-[Android](https://github.com/aromajoin/controller-sdk-android)|
-[iOS](https://github.com/aromajoin/controller-sdk-ios)|
-[Windows](https://github.com/aromajoin/controller-sdk-windows)
-
----
-
 ## Open-Source
 
-### MVP-Android-Architecture-Component
-
-Android MVP sample adapts with new Android architecture components (Lifecycle, Room).  
-[GitHub](https://github.com/quangctkm9207/mvp-android-arch-component)  
-
----  
-### Screen Corner
-*Android, UI/UX Design, Marketing*  
-![BatterySave]({{ site.newbaseurl }}assets/screenshots/screen_corner.png)  
-
-Screen Corner allows users to customize mobile screen corner by various styles.  
-[Github](https://github.com/quangctkm9207/screen-corner)
-
----
-### Android Best Practices
-*Android*  
-
-Do's and Don'ts for Android development.  
-[Github](https://github.com/futurice/android-best-practices)  
-
----  
-### ActionSheet
-*Android*  
-
-A small library which creates iPad-style ActionSheet for Android apps.  
-[Github](https://github.com/aromajoin/actionsheet-android)
-
----
 ### MaterialShowcase
 *iOS*  
 
@@ -162,6 +128,33 @@ An elegant and beautiful tap showcase view for iOS apps based on Material Design
 
 A tiny pin to reduce boilerplate codes in PreferenceFragment by using field and method binding.  
 [Github](https://github.com/quangctkm9207/prefpin)
+
+### MVP-Android-Architecture-Component
+
+Android MVP sample adapts with new Android architecture components (Lifecycle, Room).  
+[GitHub](https://github.com/quangctkm9207/mvp-android-arch-component)  
+
+---  
+### ActionSheet
+*Android*  
+
+A small library which creates iPad-style ActionSheet for Android apps.  
+[Github](https://github.com/aromajoin/actionsheet-android)
+
+---
+### Android Best Practices
+*Android*  
+
+Do's and Don'ts for Android development.  
+[Github](https://github.com/futurice/android-best-practices)
+
+---  
+### Screen Corner
+*Android, UI/UX Design*  
+![BatterySave]({{ site.newbaseurl }}assets/screenshots/screen_corner.png)  
+
+Screen Corner allows users to customize mobile screen corner by various styles.  
+[Github](https://github.com/quangctkm9207/screen-corner)
 
 ---  
 There are various applications which have been unpublished from Google Play because I do not have time to maintain them.  
