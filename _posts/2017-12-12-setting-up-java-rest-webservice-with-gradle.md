@@ -9,7 +9,10 @@ In this blog post, we are just walking  through fundamental steps of developing 
 ## REST
 *What is REST?*
 
-Basically, [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) stands for Representational State Transfer which is an architectural style based on HTTP protocol.
+Basically, [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) stands for Representational State Transfer which is an architectural style based on HTTP protocol. REST concept is to separate the API structure into logical resources. HTTP methods (GET, POST, PUT, and DELETE) are used to operate with the resources.  
+About RESTful API design, you can learn more about the guidelines via following articles.
+* https://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
+* https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
 
 ## Java Servlet
 > A servlet is a Web component that is managed by a container and generates dynamic content.
