@@ -53,7 +53,8 @@ On the journey of exploring Xamarin town to get used to it, I have just marked i
     * https://willowtreeapps.com/ideas/model-view-presenter-mvp-an-alternative-to-mvvm-for-cross-platform-xamarin
 
 ### Unit testing
-* Unit testing: http://jesseliberty.com/2015/09/19/52-weeks-of-xamarin-week-6-starting-xunit-testing/
+* http://15mgm15.ghost.io/2017/12/06/xamarin-forms-unit-testing/
+* http://jesseliberty.com/2015/09/19/52-weeks-of-xamarin-week-6-starting-xunit-testing/ 
 
 ### Custom view
 * https://xamarinhelp.com/xamarin-forms-user-control/
