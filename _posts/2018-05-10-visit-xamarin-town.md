@@ -62,6 +62,7 @@ On the journey of exploring Xamarin town to get used to it, I have just marked i
 
 ### Others
 * [Adding UWP app to Xamarin](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/windows/installation/)
+* [Execute different codes on different platforms](https://stackoverflow.com/questions/24251020/write-device-platform-specific-code-in-xamarin-forms)
 
 ## Libraries
 * Preferences: [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin)
