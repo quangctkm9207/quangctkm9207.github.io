@@ -4,9 +4,7 @@ title: Home
 ---
 <p align="center">
  <img src="{{ site.newbaseurl }}assets/icon_144_white.png" height="100" width="100">
-  Hello, I'm <b>Quang</b>.<br>
-  A software engineer who writes codes running on machines to serve human needs.<br>
-  Outsite of work, I write <a href="{{ site.newbaseurl }}blog/">Blogs</a>
-  and build side <a href="{{ site.newbaseurl }}projects/">Projects</a>.
+  Thanks for stopping by, I am a guy who believes in positive impacts of technology for human. 
+  Because of being born in computer and internet era, I am making my contribution by developing softwares. Happily, what I have done helps myself and people around me. 
   <br><br>
 </p>
