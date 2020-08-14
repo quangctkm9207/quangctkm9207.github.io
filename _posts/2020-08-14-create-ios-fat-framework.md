@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create 
+title: Create a fat iOS framework running on both simulators and real devices
 comments: true
 ---
 
