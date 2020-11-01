@@ -5,6 +5,13 @@ title: Projects
 
 Noteworthy Personal and Open-Source Projects
 ---
+### Tinido
+*iOS, UI/UX Design, Marketing*    
+
+A simple but powerful task management app focusing on help you getting things done.  
+[Website](https://tinido.com/)
+
+---
 ### Hoga
 *Android*  
 
